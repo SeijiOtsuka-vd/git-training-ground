@@ -43,4 +43,13 @@
     "message": "日本の夏はとってもあつい",
     "joinedAt": "2026-10-15"
   }
+  ,
+  {
+    "name": "otsuka",
+    "github": "SeijiOtsuka-vd",
+    "favoriteColor": "#FF0000",
+    "favoriteEmoji": "🐱",
+    "message": "GitHubに慣れていきたいです",
+    "joinedAt": "2026-10-15"
+  }
 ]
